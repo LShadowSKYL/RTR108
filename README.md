@@ -1,2 +1,3 @@
 # RTR108
-New repository
+Datormācības Speciālkurss
+#1.lekcija
